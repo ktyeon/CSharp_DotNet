@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <GenerateDocumentationfile>true</GenerateDocumentationfile>
+    <DocumentationFile>Comments.xml</DocumentationFile>
+    <!--and then go to terminal > enter the "dotnet build"-->
+  </PropertyGroup>
+
+</Project>

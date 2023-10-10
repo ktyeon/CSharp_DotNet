@@ -1,0 +1,16 @@
+C:\Users\Taeyeon\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Users\Taeyeon\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Users\Taeyeon\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Users\Taeyeon\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\Taeyeon\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Users\Taeyeon\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Users\Taeyeon\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taeyeon\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Taeyeon\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Taeyeon\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Taeyeon\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.sourcelink.json
+C:\Users\Taeyeon\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Users\Taeyeon\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\refint\HelloWorld.dll
+C:\Users\Taeyeon\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Users\Taeyeon\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
+C:\Users\Taeyeon\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Overview\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
