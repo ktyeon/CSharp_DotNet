@@ -1,0 +1,16 @@
+C:\Users\Taeyeon\Documents\GitHub\CSharp_DotNet\Exercise Files\Start\Strings\Operations\bin\Debug\net5.0\Operations.exe
+C:\Users\Taeyeon\Documents\GitHub\CSharp_DotNet\Exercise Files\Start\Strings\Operations\bin\Debug\net5.0\Operations.deps.json
+C:\Users\Taeyeon\Documents\GitHub\CSharp_DotNet\Exercise Files\Start\Strings\Operations\bin\Debug\net5.0\Operations.runtimeconfig.json
+C:\Users\Taeyeon\Documents\GitHub\CSharp_DotNet\Exercise Files\Start\Strings\Operations\bin\Debug\net5.0\Operations.runtimeconfig.dev.json
+C:\Users\Taeyeon\Documents\GitHub\CSharp_DotNet\Exercise Files\Start\Strings\Operations\bin\Debug\net5.0\Operations.dll
+C:\Users\Taeyeon\Documents\GitHub\CSharp_DotNet\Exercise Files\Start\Strings\Operations\bin\Debug\net5.0\Operations.pdb
+C:\Users\Taeyeon\Documents\GitHub\CSharp_DotNet\Exercise Files\Start\Strings\Operations\obj\Debug\net5.0\Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taeyeon\Documents\GitHub\CSharp_DotNet\Exercise Files\Start\Strings\Operations\obj\Debug\net5.0\Operations.AssemblyInfoInputs.cache
+C:\Users\Taeyeon\Documents\GitHub\CSharp_DotNet\Exercise Files\Start\Strings\Operations\obj\Debug\net5.0\Operations.AssemblyInfo.cs
+C:\Users\Taeyeon\Documents\GitHub\CSharp_DotNet\Exercise Files\Start\Strings\Operations\obj\Debug\net5.0\Operations.csproj.CoreCompileInputs.cache
+C:\Users\Taeyeon\Documents\GitHub\CSharp_DotNet\Exercise Files\Start\Strings\Operations\obj\Debug\net5.0\Operations.sourcelink.json
+C:\Users\Taeyeon\Documents\GitHub\CSharp_DotNet\Exercise Files\Start\Strings\Operations\obj\Debug\net5.0\Operations.dll
+C:\Users\Taeyeon\Documents\GitHub\CSharp_DotNet\Exercise Files\Start\Strings\Operations\obj\Debug\net5.0\refint\Operations.dll
+C:\Users\Taeyeon\Documents\GitHub\CSharp_DotNet\Exercise Files\Start\Strings\Operations\obj\Debug\net5.0\Operations.pdb
+C:\Users\Taeyeon\Documents\GitHub\CSharp_DotNet\Exercise Files\Start\Strings\Operations\obj\Debug\net5.0\Operations.genruntimeconfig.cache
+C:\Users\Taeyeon\Documents\GitHub\CSharp_DotNet\Exercise Files\Start\Strings\Operations\obj\Debug\net5.0\ref\Operations.dll
